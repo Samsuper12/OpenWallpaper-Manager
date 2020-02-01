@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=OpenWallpaper Manager
+Comment=Wallpaper package manager 
+Exec=@CMAKE_INSTALL_PREFIX@/bin/@PROJECT_NAME@
+Terminal=false
+Type=Application
+Icon=plasma
+Version=@PROJECT_VERSION@
+Categories=Application;Multimedia;

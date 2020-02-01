@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component type="desktop">
+    <id>openwallpaper-manager</id>
+    <metadata_license>CC0-1.0</metadata_license>
+    <project_license>GPL-3.0+</project_license>
+    <name>OpenWallpaper Manager</name>
+    <summary>OpenWallpaper Manager</summary>
+    <description>
+        <p>Wallpaper package manager</p>
+    </description>
+    <launchable type="desktop-id">openwallpaper-manager.desktop</launchable>
+    <categories>
+        <category>Application</category>
+        <category>Multimedia</category>
+    </categories>
+    <provides>
+        <binary>openwallpaper-manager</binary>
+    </provides>
+</component> 

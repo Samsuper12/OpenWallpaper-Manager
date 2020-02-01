@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/qml_src">
+        <file alias="main.qml">../qml/main.qml</file>
+        <file alias="PackageGrid.qml">../qml/PackageGrid.qml</file>
+        <file alias ="Settings.qml">../qml/Settings.qml</file>
+        <file alias ="PlaybackPopup.qml">../qml/PlaybackPopup.qml</file>
+        <file alias ="InfoPopup.qml">../qml/InfoPopup.qml</file>
+        <file alias ="BottomBar.qml">../qml/BottomBar.qml</file>
+    </qresource>
+</RCC>
