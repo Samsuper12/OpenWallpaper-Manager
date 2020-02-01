@@ -1,0 +1,3 @@
+[submodule "Manager/Simple_parser"]
+	path = Manager/Simple_parser
+	url = https://github.com/Samsuper12/Simple_parser.git
