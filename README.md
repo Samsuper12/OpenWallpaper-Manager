@@ -66,7 +66,7 @@ Clone repository with flag `--recursive`. Go to the Open Wallpaper Manager proje
 Run CMake with the following parameters:
 
 ```console
-# cmake -D CMALE_INSTALL_PREFIX=/usr ..
+# cmake -D CMAKE_INSTALL_PREFIX=/usr ..
 ```
 CMake can show an error if the system doesn’t have the necessary dependencies.
 
