@@ -73,7 +73,7 @@ CMake can show an error if the system doesn’t have the necessary dependencies.
 Start building the project:
 
 ```console
-# cmake -- build. 
+# cmake -- build . 
 ```
 if you have more than 2 CPU cores or threads you can write `-- -jХ` where X will be a number of cores/threads.
 Example: `cmake --build . -- -j4` 
